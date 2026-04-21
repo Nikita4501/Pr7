@@ -3,8 +3,10 @@ using System.Collections.Generic;
 
 namespace ConsoleApp_FirstApp
 {
+    /// <summary>Главный класс программы.</summary>
     class Program
     {
+        /// <summary>Точка входа в приложение.</summary>
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Galaxy News!");
@@ -12,6 +14,7 @@ namespace ConsoleApp_FirstApp
             Console.ReadKey();
         }
 
+        /// <summary>Создаёт список галактик и выводит их в консоль.</summary>
         private static void IterateThroughList()
         {
             var theGalaxies = new List<Galaxy>
@@ -39,17 +42,24 @@ namespace ConsoleApp_FirstApp
         }
     }
 
+    /// <summary>Представляет галактику.</summary>
     public class Galaxy
     {
+        /// <summary>Название галактики.</summary>
         public string Name { get; set; }
 
+        /// <summary>Расстояние в миллионах световых лет.</summary>
         public double MegaLightYears { get; set; }
-        public GType GalaxyType { get; set; }
 
+        /// <summary>Тип галактики.</summary>
+        public GType GalaxyType { get; set; }
     }
 
+    /// <summary>Тип галактики (конвертирует символ в enum).</summary>
     public class GType
     {
+        /// <summary>Инициализирует тип по символу: S, E, I или L.</summary>
+        /// <param name="type">Символ типа галактики.</param>
         public GType(char type)
         {
             switch (type)
@@ -70,7 +80,10 @@ namespace ConsoleApp_FirstApp
                     break;
             }
         }
+
+        /// <summary>Название типа галактики (хранится как object).</summary>
         public object MyGType { get; set; }
+
         private enum Type { Spiral, Elliptical, Irregular, Lenticular }
     }
 }
