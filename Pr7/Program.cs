@@ -1,10 +1,8 @@
 ﻿int result = Fibonacci(5);
 Console.WriteLine(result);
 
-/// <summary>
-/// Вычисляет n-е число в последовательности Фибоначчи.
-/// </summary>
-/// <param name="n">Порядковый номер числа Фибоначчи (начиная с 0).</param>
+/// <summary>Вычисляет число Фибоначчи для n.</summary>
+/// <param name="n">Индекс числа (n >= 0).</param>
 /// <returns>n-е число Фибоначчи.</returns>
 static int Fibonacci(int n)
 {
