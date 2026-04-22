@@ -6,7 +6,7 @@
 Проверка состояния переменных
 <img width="974" height="153" alt="image" src="https://github.com/user-attachments/assets/18d548c2-110f-42d6-a6f6-9a4a70ae4be8" />
 
-
+Обнаружение ошибки с помощью точек останова
 <img width="974" height="409" alt="image" src="https://github.com/user-attachments/assets/f70a730a-e0fb-4627-931b-f052f47f1a60" />
 
 
