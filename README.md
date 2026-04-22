@@ -12,4 +12,6 @@
 Обнаруженная ошибка
 <img width="645" height="541" alt="image" src="https://github.com/user-attachments/assets/c0944167-fd06-490c-94b8-11607242e55c" />
 
+Исправленная ошибка
+<img width="808" height="185" alt="image" src="https://github.com/user-attachments/assets/d18b4290-c009-4831-9f44-7987cf3f81eb" />
 <img width="974" height="250" alt="image" src="https://github.com/user-attachments/assets/a97e8854-9e3f-4ab6-9b8f-4eb01f4ce2ae" />
