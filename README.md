@@ -12,6 +12,6 @@
 
 
 Исправление кода
-<img width="234" height="54" alt="image" src="https://github.com/user-attachments/assets/63f2a58b-7a80-4142-9544-050d435bbf75" />
+<img width="761" height="176" alt="image" src="https://github.com/user-attachments/assets/6cce2644-3132-4120-8c2e-06ea1f4825e6" />
 <img width="974" height="358" alt="image" src="https://github.com/user-attachments/assets/58f56256-9429-46f0-9f45-977e9e42644e" />
 <img width="974" height="587" alt="image" src="https://github.com/user-attachments/assets/599d845f-a252-40bc-82a4-f8712d948f05" />
