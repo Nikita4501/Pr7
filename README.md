@@ -3,7 +3,7 @@
 Использование точек останова
 <img width="588" height="183" alt="image" src="https://github.com/user-attachments/assets/160c737c-4026-4c41-ae9d-f46dd6bc720b" />
 
-
+Проверка состояния переменных
 <img width="974" height="153" alt="image" src="https://github.com/user-attachments/assets/18d548c2-110f-42d6-a6f6-9a4a70ae4be8" />
 
 
