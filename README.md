@@ -3,6 +3,7 @@
 Запуск приложения
 <img width="974" height="242" alt="image" src="https://github.com/user-attachments/assets/fc4260d7-e943-4545-94bc-4bf4ef4b92fe" />
 
+Отладка приложения
 <img width="946" height="136" alt="image" src="https://github.com/user-attachments/assets/22003814-8989-4597-b874-a630ffde6bd5" />
 
 <img width="974" height="210" alt="image" src="https://github.com/user-attachments/assets/3bab153b-c919-43cc-9ad0-509f00f651cd" />
