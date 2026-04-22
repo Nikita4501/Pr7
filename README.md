@@ -1,4 +1,4 @@
-# Отладка калькулятора Фибоначчи
+# Отладка приложения «Фибоначчи»
 
 
 <img width="588" height="183" alt="image" src="https://github.com/user-attachments/assets/160c737c-4026-4c41-ae9d-f46dd6bc720b" />
