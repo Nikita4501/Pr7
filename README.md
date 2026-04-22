@@ -11,7 +11,7 @@
 <img width="974" height="352" alt="image" src="https://github.com/user-attachments/assets/4ca54bb9-e4f3-4d55-a680-2146bab0d6a0" />
 
 
-Исправление кода
+Исправление ошибки
 <img width="761" height="176" alt="image" src="https://github.com/user-attachments/assets/6cce2644-3132-4120-8c2e-06ea1f4825e6" />
 <img width="974" height="358" alt="image" src="https://github.com/user-attachments/assets/58f56256-9429-46f0-9f45-977e9e42644e" />
 <img width="974" height="587" alt="image" src="https://github.com/user-attachments/assets/599d845f-a252-40bc-82a4-f8712d948f05" />
