@@ -10,6 +10,7 @@
 <img width="974" height="409" alt="image" src="https://github.com/user-attachments/assets/f70a730a-e0fb-4627-931b-f052f47f1a60" />
 <img width="974" height="352" alt="image" src="https://github.com/user-attachments/assets/4ca54bb9-e4f3-4d55-a680-2146bab0d6a0" />
 
+
 Исправление кода
 <img width="234" height="54" alt="image" src="https://github.com/user-attachments/assets/63f2a58b-7a80-4142-9544-050d435bbf75" />
 <img width="974" height="358" alt="image" src="https://github.com/user-attachments/assets/58f56256-9429-46f0-9f45-977e9e42644e" />
