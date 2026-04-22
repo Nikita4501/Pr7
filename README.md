@@ -1,5 +1,6 @@
 # Отладка приложения «Галактики»
 
+Запуск приложения
 <img width="974" height="242" alt="image" src="https://github.com/user-attachments/assets/fc4260d7-e943-4545-94bc-4bf4ef4b92fe" />
 
 <img width="946" height="136" alt="image" src="https://github.com/user-attachments/assets/22003814-8989-4597-b874-a630ffde6bd5" />
