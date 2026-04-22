@@ -1,5 +1,6 @@
 # Отладка приложения «Буквы»
 
+Установка точки останова и запуск отладчика
 <img width="759" height="163" alt="image" src="https://github.com/user-attachments/assets/160312d0-22e0-4d34-883e-ae1d361ea22a" />
 
 <img width="581" height="366" alt="image" src="https://github.com/user-attachments/assets/202464a1-5928-45e6-9181-0c5796ead4fc" />
